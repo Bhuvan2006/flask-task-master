@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    "emmet.useInlineCompletions": true,
+    // "editor.suggestOnTriggerCharacters": false,
+    // "editor.inlineSuggest.enabled": false,
+    // "editor.quickSuggestions": false
+    "editor.quickSuggestions": {
+        
+        "other": "offWhenInlineCompletions",
+        "comments": "off",
+        "strings": "off"
+    }
+}

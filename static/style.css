@@ -1,13 +1,28 @@
 
-/* head{
+head{
     background-color: #db7676;
     padding: 20px;
     text-align: center;
     
-} */
-body{
+}
+/* body{
     font-family: Arial, sans-serif;
     background-color: #99ec9e;
     font-size: 24px;
     color: rgb(129, 201, 243);
+} */
+
+table{
+    margin: 24px auto;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+th,td{
+    padding: 12px 20px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+}
+
+th{
+    text-align: center;
 }
